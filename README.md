@@ -22,5 +22,7 @@ O objetivo dessa `POC` é apresentar e complementar o conhecimento sobre testes 
 ---
 
 <p align="center" >
+  <img width="100px" src="https://user-images.githubusercontent.com/20017223/137908690-29781199-52bd-40a2-a8ea-4e8bc9715ea4.png">
   <img width="100px" src="https://user-images.githubusercontent.com/20017223/137907723-e2a468fa-6856-424e-9451-5730b60f103c.png">
+  
 </p>
