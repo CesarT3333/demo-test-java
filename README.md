@@ -10,9 +10,9 @@
 ## Inofrmações úteis
 
 > Para um melhor entendimento sobre a ferramenta `Junit` [clique aqui](https://junit.org/junit5/docs/current/user-guide/). 
+
 > Para um melhor entendimento sobre a ferramenta `Mockito` [clique aqui](https://site.mockito.org/). 
 
-> Para a criaçãod e usuários de maneira simples, veja [esse script](https://github.com/ps-data-platform/fulltextsearch-poc-cognito/blob/master/criacao_usuario.sh).
 ---
 
 ## Objetivo
