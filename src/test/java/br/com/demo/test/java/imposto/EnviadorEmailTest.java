@@ -23,6 +23,7 @@ class EnviadorEmailTest {
     var logCaptor = LogCaptor.forClass(EnviadorEmail.class);
 
     enviadorEmail.envia(14.3);
+
     assertEquals(logCaptor.getInfoLogs().get(0), logEsperado);
   }
 }

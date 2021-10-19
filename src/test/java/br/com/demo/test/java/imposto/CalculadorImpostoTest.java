@@ -52,7 +52,7 @@ class CalculadorImpostoTest {
 
     assertEquals(10, somaArgumentCaptor.getValue());
     assertEquals(15, subtracaoArgumentCaptor.getValue());
-    assertEquals(enviadorEmailArgumentCaptor.getValue(), 13.0);
+    assertEquals(13.0, enviadorEmailArgumentCaptor.getValue());
 
   }
 
